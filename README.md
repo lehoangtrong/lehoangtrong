@@ -3,6 +3,7 @@
 </div>
 
 <h2 align="center">Hi 👋! My name is Lê Hoàng Trọng</h2>
+
 - 🔭 I’m currently study on **FPT University Ho Chi Minh**
 - 💌 How to reach me **lehoangtrongcsgl@gmail.com**
 - 🌱 I’m currently learning **C#**
