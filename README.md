@@ -33,7 +33,3 @@
 <img src="https://raw.githubusercontent.com/lehoangtrong/lehoangtrong/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@lehoangtrong&theme=dark" alt="Layout with last medium posts" />
-</div>
